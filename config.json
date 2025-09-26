@@ -1,0 +1,7 @@
+{
+  "appName": "MiAplicacion",
+  "version": "1.0",
+  "autor": "Jose Ludeña",
+  "modoDebug": true,
+  "puerto": 8080
+}
